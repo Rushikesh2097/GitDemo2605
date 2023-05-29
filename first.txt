@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-adding first line of code  -- Adding this line from Local
-=======
-adding first line of code -- Adding this line from GitHub
->>>>>>> ae033e4c24488852934e13f8a48b5bc890ec93c9
+adding first line of code
